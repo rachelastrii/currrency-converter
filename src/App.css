@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #EE9322;
+  font-family: Arial;
+}
+.header {
+  text-align: center;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.content th, td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.footer {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
